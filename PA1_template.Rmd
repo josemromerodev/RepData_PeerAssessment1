@@ -1,6 +1,8 @@
 ---
 title: "Reproducible Reaserch: Course Project 1"
-output: html_document
+output: 
+  html_document:
+    keep_md: true
 ---
 
 For this project we will analyze data from personal activity monitor device and 
